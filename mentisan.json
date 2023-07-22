@@ -1,0 +1,15 @@
+{
+    "contact": "@brubula",
+    "templates": [
+      {
+        "name": "Mentisan",
+        "sources": [
+          "https://i.imgur.com/pBQW3Qk.png"
+        ],
+        "x": 744,
+        "y": 455
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
